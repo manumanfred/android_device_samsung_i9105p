@@ -2,3 +2,4 @@
 /dev/bcm2079x                                       u:object_r:nfc_device:s0
 
 /data/nfc(/.*)?                                     u:object_r:nfc_data_file:s0
+/data/bcmnfc(/.*)?                                  u:object_r:nfc_data_file:s0
